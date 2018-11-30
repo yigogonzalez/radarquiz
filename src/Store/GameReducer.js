@@ -3,7 +3,7 @@ const initState = {
   currentBlipIndex: 0,
   correctCount: 0,
   count: 0,
-  status: 'playing',
+  status: 'initial',
   blips: [],
   gameTime: 60,
 }
