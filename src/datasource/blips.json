@@ -22,5 +22,533 @@
     "name": "Crypto shredding",
     "ring": "Trial",
     "quadrant": "Techniques"
+  },
+  {
+    "key": "Four-key-metrics",
+    "name": "Four key metrics",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": " Multi-account-cloud-setup",
+    "name": " Multi-account cloud setup",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Observability-as-code",
+    "name": "Observability-as-code",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Risk-commensurate vendor strategy",
+    "name": "Risk-commensurate vendor strategy",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Run cost as architecture fitness function",
+    "name": "Run cost as architecture fitness function",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Secrets as a service",
+    "name": "Secrets as a service",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Security Chaos Engineering",
+    "name": "Security Chaos Engineering",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Versioning data for reproducible analytics",
+    "name": "Versioning data for reproducible analytic",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Chaos Katas",
+    "name": "Chaos Katas",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Distroless Docker images",
+    "name": "Distroless Docker images",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Incremental delivery with COTS",
+    "name": "Incremental delivery with COTS",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Infrastructure configuration scanner",
+    "name": "Infrastructure configuration scanner",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Pre-commit downstream build checks",
+    "name": "Pre-commit downstream build checks",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Service mesh",
+    "name": "Service mesh",
+    "ring": "Assess",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "\"Handcranking\" of Hadoop clusters using config management tools",
+    "name": "\"Handcranking\" of Hadoop clusters using config management tools",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Generic cloud usage",
+    "name": "Generic cloud usage",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Layered microservices architecture",
+    "name": "Layered microservices architecture",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Master data management",
+    "name": "Master data management",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Microservice envy",
+    "name": "Microservice envy",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Request-response events in user-facing workflows",
+    "name": "Request-response events in user-facing workflows",
+    "ring": "Hold",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Apache Atlas",
+    "name": "Apache Atlas",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "AWS",
+    "name": "AWS",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Azure",
+    "name": "Azure",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Contentful",
+    "name": "Contentful",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Google Cloud Platform",
+    "name": "Google Cloud Platform",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Shared VPC",
+    "name": "Shared VPC",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "TICK Stack",
+    "name": "TICK Stack",
+    "ring": "Trial",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Azure DevOps",
+    "name": "Azure DevOps",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "CockroachDB",
+    "name": "CockroachDB",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Debezium",
+    "name": "Debezium",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Glitch",
+    "name": "Glitch",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Google Cloud Dataflow",
+    "name": "Google Cloud Dataflow",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "gVisor",
+    "name": "gVisor",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "IPFS",
+    "name": "IPFS",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Istio",
+    "name": "Istio",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Knative",
+    "name": "Knative",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Pulumi",
+    "name": "Pulumi",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Quorum",
+    "name": "Quorum",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Resin.io",
+    "name": "Resin.io",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Rook",
+    "name": "Rook",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "SPIFFE",
+    "name": "SPIFFE",
+    "ring": "Assess",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Data-hungry packages",
+    "name": "Data-hungry packages",
+    "ring": "Hold",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "Low-code platforms",
+    "name": "Low-code platforms",
+    "ring": "Hold",
+    "quadrant": "Platforms"
+  },
+  {
+    "key": "acs-engine",
+    "name": "acs-engine",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Archery",
+    "name": "Archery",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "ArchUnit",
+    "name": "ArchUnit",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Cypress",
+    "name": "Cypress",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "git-secrets",
+    "name": "git-secrets",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Headless Firefox",
+    "name": "Headless Firefox",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "LocalStack",
+    "name": "LocalStack",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Mermaid",
+    "name": "Mermaid",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Prettier",
+    "name": "Prettier",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Rider",
+    "name": "Rider",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Snyk",
+    "name": "Snyk",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "UI dev environments",
+    "name": "UI dev environments",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Visual Studio Code",
+    "name": "Visual Studio Code",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "VS Live Share",
+    "name": "VS Live Share",
+    "ring": "Trial",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Bitrise",
+    "name": "Bitrise",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Codefresh",
+    "name": "Codefresh",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Grafeas",
+    "name": "Grafeas",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Heptio Ark",
+    "name": "Heptio Ark",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Jaeger",
+    "name": "Jaeger",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "kube-bench",
+    "name": "kube-bench",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Ocelot",
+    "name": "Ocelot",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Optimal Workshop",
+    "name": "Optimal Workshop",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Stanford CoreNLP",
+    "name": "Stanford CoreNLP",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Terragrunt",
+    "name": "Terragrunt",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "TestCafe",
+    "name": "TestCafe",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Traefik",
+    "name": "Traefik",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Wallaby.js",
+    "name": "Wallaby.js",
+    "ring": "Assess",
+    "quadrant": "Tools"
+  },
+  {
+    "key": "Jepsen",
+    "name": "Jepsen",
+    "ring": "Trial",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "MMKV",
+    "name": "MMKV",
+    "ring": "Trial",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "MockK",
+    "name": "MockK",
+    "ring": "Trial",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "TypeScript",
+    "name": "TypeScript",
+    "ring": "Trial",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Apache Beam",
+    "name": "Apache Beam",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Camunda",
+    "name": "Camunda",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Flutter",
+    "name": "Flutter",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Ktor",
+    "name": "Ktor",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Nameko",
+    "name": "Nameko",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Polly.js",
+    "name": "Polly.js",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "PredictionIO",
+    "name": "PredictionIO",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Puppeteer",
+    "name": "Puppeteer",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Q#",
+    "name": "Q#",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "SAFE stack",
+    "name": "SAFE stack",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "Spek",
+    "name": "Spek",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "troposphere",
+    "name": "troposphere",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "WebAssembly",
+    "name": "WebAssembly",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
+  },
+  {
+    "key": "WebFlux",
+    "name": "WebFlux",
+    "ring": "Assess",
+    "quadrant": "Languages & Frameworks"
   }
 ]
