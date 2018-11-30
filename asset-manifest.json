@@ -1,15 +1,15 @@
 {
   "main.css": "/radarquiz/static/css/main.d764d451.chunk.css",
-  "main.js": "/radarquiz/static/js/main.c1e6ae7b.chunk.js",
-  "main.js.map": "/radarquiz/static/js/main.c1e6ae7b.chunk.js.map",
+  "main.js": "/radarquiz/static/js/main.6db57ffb.chunk.js",
+  "main.js.map": "/radarquiz/static/js/main.6db57ffb.chunk.js.map",
   "static/css/1.72845027.chunk.css": "/radarquiz/static/css/1.72845027.chunk.css",
   "static/js/1.0799edb2.chunk.js": "/radarquiz/static/js/1.0799edb2.chunk.js",
   "static/js/1.0799edb2.chunk.js.map": "/radarquiz/static/js/1.0799edb2.chunk.js.map",
   "runtime~main.js": "/radarquiz/static/js/runtime~main.be62237f.js",
   "runtime~main.js.map": "/radarquiz/static/js/runtime~main.be62237f.js.map",
-  "static/css/1.72845027.chunk.css.map": "/radarquiz/static/css/1.72845027.chunk.css.map",
   "static/css/main.d764d451.chunk.css.map": "/radarquiz/static/css/main.d764d451.chunk.css.map",
+  "static/css/1.72845027.chunk.css.map": "/radarquiz/static/css/1.72845027.chunk.css.map",
   "index.html": "/radarquiz/index.html",
-  "precache-manifest.e480ef1ce43f5a80a035d19654d28bd4.js": "/radarquiz/precache-manifest.e480ef1ce43f5a80a035d19654d28bd4.js",
+  "precache-manifest.e3388f80d0321a0d4d6f425bdcf2a7bb.js": "/radarquiz/precache-manifest.e3388f80d0321a0d4d6f425bdcf2a7bb.js",
   "service-worker.js": "/radarquiz/service-worker.js"
 }
