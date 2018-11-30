@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/radarquiz/precache-manifest.e3388f80d0321a0d4d6f425bdcf2a7bb.js"
+  "/radarquiz/precache-manifest.2b8b68900c940343c7436e1090710520.js"
 );
 
 workbox.clientsClaim();
