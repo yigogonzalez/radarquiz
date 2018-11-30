@@ -1,0 +1,14 @@
+{
+  "extends":"airbnb",
+  "rules": {
+    "semi": ["error", "never"],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-pascal-case": [0],
+    "max-len": ["warn"],
+    "react/destructuring-assignment": ["never"],
+    "react/jsx-one-expression-per-line": "never"
+  },
+  "globals": {
+    "document": false
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "Event-Storming",
+    "name": "Event Storming",
+    "ring": "Adopt",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "1-canary",
+    "name": "1% canary",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Bounded-Buy",
+    "name": "Bounded Buy",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  },
+  {
+    "key": "Crypto-shredding",
+    "name": "Crypto shredding",
+    "ring": "Trial",
+    "quadrant": "Techniques"
+  }
+]
